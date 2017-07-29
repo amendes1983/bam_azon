@@ -1,0 +1,23 @@
+{
+  "name": "bam_azon",
+  "version": "1.0.0",
+  "description": "Bamazon",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amendes1983/bam_azon.git"
+  },
+  "author": "Aaron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amendes1983/bam_azon/issues"
+  },
+  "homepage": "https://github.com/amendes1983/bam_azon#readme",
+  "dependencies": {
+    "inquirer": "^3.2.1",
+    "mysql": "^2.14.0"
+  }
+}
